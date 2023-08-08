@@ -8,7 +8,7 @@ const Rolldice = () => {
   };
   return (
     <DiceRoll>
-      <div className="dice" onClick={console.log('ggh')}>
+      <div className="dice" onClick={console.log('gghg')}>
         <img src="/images/dice_1.png" alt="" />
       </div>
       <p>Click on Dice to roll</p>
